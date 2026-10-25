@@ -1,0 +1,9 @@
+*.csv
+*.zip
+*.pt
+*.pdf
+*.pem
+*.pyc
+*.pkl
+
+!assets/Amazon 25 Problem Statement.pdf
